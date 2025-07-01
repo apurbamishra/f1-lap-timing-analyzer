@@ -16,10 +16,10 @@ This Python program analyzes lap time data from Formula 1 practice sessions to p
 
 ### 📝 Example input file (`lap_times_sample.txt`):
 Dewsbury
-SAI111.875
-STR103.844
-MAG117.792
-NOR100.211
-SAI105.628
-GAS108.142
+SAI111.875 <br>
+STR103.844 <br>
+MAG117.792 <br>
+NOR100.211 <br>
+SAI105.628 <br>
+GAS108.142 <br>
 ...
